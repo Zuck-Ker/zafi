@@ -23,7 +23,7 @@ $ python2 zafi.py <br>
 #
 If you can't use this script or there is a bug in the script, please contact me
 #### contact me
-[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/romi.afrizal.102)
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/profile.php?id=100077180790564)
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/15075961235?text=Asalamualaikum+bang)
 #### Donasi
 #
